@@ -1,1 +1,1 @@
-# Projekt-J-zyk-Dru-yny-Naszyjnika
+# Projekt Język Drużyny Naszyjnika
