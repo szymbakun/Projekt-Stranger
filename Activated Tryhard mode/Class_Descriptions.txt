@@ -1,18 +1,18 @@
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color><color=#ffff00>.\nNamierz swoją ofiarę, i kliknij lewy przycisk myszy aby złamać jej kark.\nPoruszasz się wtedy, gdy nikt na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej zdrowia.</color>
-Uciekaj autyzto jak najszybciej.\nWspółpracuj z <color=#008f1e>Rebelią Chaosu</color>.\nUnikaj zagrożeń.
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.\nNamierz swoją ofiarę, i kliknij lewy przycisk myszy aby złamać jej kark.\nPoruszasz się wtedy, gdy nikt na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej zdrowia.</color>
+Masz przejebane, \nszybko idź coś zrób zanim cie ktoś zabije. \nPowodzenia <3
 Wkrótce się odrodzisz.
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Potrafisz przechodzić przez drzwi i bramy.\nNamierz swoją ofiarę i kliknij lewy przycisk myszy, aby ją zranić i wysłać do swojego Wymiaru Łuzowego.\nKliknij TAB, aby otworzyć Menu umiejętności, które pozwalają na teleportowanie się.</color>
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Potrafisz przechodzić przez drzwi i bramy.\nNamierz swoją ofiarę i kliknij lewy przycisk myszy, aby ją zranić i wysłać do swojego Wymiaru Łuzowego.\nKliknij TAB, aby otworzyć Menu umiejętności, które pozwalają na teleportowanie się.</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od Dowódcy.\nWydawaj polecenia kadetom oraz ochroniarzom.
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy aby natychmiastowo zabić przeciwnika.\nInteraktuj z ostatnio zabitym człowiekiem, aby go wskrzesić jako swojego sojusznika.</color>
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy aby natychmiastowo zabić przeciwnika.\nInteraktuj z ostatnio zabitym człowiekiem, aby go wskrzesić jako swojego sojusznika.</color>
 Ucieknij z placówki.\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>.\nUnikaj zagrożeń.
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
-Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
-Zabij wszystkich\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
-Zabij wszystkich\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy aby zaatakować.</color>
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od Dowódcy.\nWydawaj polecenia kadetom oraz ochroniarzom.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom oraz ochroniarzom.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy Poruczników i Dowódcy.\nWydawaj polecenia ochroniarzom.
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.
+Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nZdobądź jak najwięcej fragów.
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.
+Zdobądź jak najwięcej fragów.\nFokusuj się na naukowców i D-boi.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy aby zaatakować.</color>
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nZdobądź jak najwięcej fragów.\nWykonuj rozkazy od Dowódcy.\nWydawaj polecenia tym frajerom.
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nZdobądź jak najwięcej fragów.\nWydawaj polecenia żołnierzom oraz ochroniarzom.
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nZdobądź jak najwięcej fragów.\nWykonuj rozkazy Poruczników i Dowódcy.\nWydawaj polecenia ochroniarzom.
 Uważaj na admina, on jest zły bardzo zły.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nWyeliminuj zagrożenie.
+Jesteś upeśledzony.\n Masz autyzm. \nDotego coś cie zaraz zabije
 Możesz gryźć ludzi. \nGryzienie zadaj ludziom 65hp oraz daje efect amnesi na 3 sekundy. \nWidzisz ludzi jak w inych wejdziesz, albo będą wytwarzać dźwięk.
 Możesz gryźć ludzi. \nGryzienie zadaj ludziom 65hp oraz daje efect amnesi na 3 sekundy. \nWidzisz ludzi jak w inych wejdziesz, albo będą wytwarzać dźwięk.
