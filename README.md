@@ -2,6 +2,9 @@
 
  Discord Drużyny Naszyjnika : https://discord.gg/CcRZKy9kKs
  
+# Naprawa
+Najpierw to przeczytaj zanim będziesz sie do mnie prół
+- jak nie działa ta paczka zmień na jakiś język i przywróć Activated Tryhard mode 
 # Jak to coś zainstalować
 Pobierz to coś i wypakuj
 Wejdź w steam kliknij prawym na scp secret laboratory
