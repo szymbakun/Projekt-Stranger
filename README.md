@@ -1,5 +1,7 @@
 # Projekt Język Drużyny Naszyjnika
 
+ Discord Drużyny Naszyjnika : https://discord.gg/CcRZKy9kKs
+ 
 # Jak to coś zainstalować
 Pobierz to coś i wypakuj
 Wejdź w steam kliknij prawym na scp secret laboratory
