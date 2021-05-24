@@ -1,0 +1,17 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+boom 
+boom 
+bomm 
+i 
+want 
+you 
+in 
+my 
+room
+sho
+x
+F1
+is
+big
+true
+!!!!

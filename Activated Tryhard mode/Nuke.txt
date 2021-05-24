@@ -1,0 +1,4 @@
+<size=180><color=red>NOT BOOM >:</color></size>
+<color=red><size=200>PROSZĘ CZEKAĆ >:</size></color>
+<color=lime><size=180>BOOM? <:</size></color>
+MASZ PRZEJEBANE
