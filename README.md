@@ -1,4 +1,4 @@
-# Projekt Język Drużyny Naszyjnika
+# Projekt Stranger
 
  Discord Drużyny Naszyjnika : https://discord.gg/CcRZKy9kKs
  
