@@ -2,8 +2,7 @@
 
  Discord Drużyny Naszyjnika : https://discord.gg/CcRZKy9kKs
  
- Są teraz dwie customowe języki
- -  Activated Tryhard mode - memiczna paczka do tryhardowania
+ Są teraz dwie customowe języki(już nie)
  -  #TryHard - paczka do tryhardowania
 # Naprawa
 Najpierw to przeczytaj zanim będziesz sie do mnie prół
